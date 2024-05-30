@@ -12,6 +12,7 @@ The solutions in this repository are written in the following languages:
 
 - Java (most)
 - Python (some)
+- SQL (few)
 - C (rare few)
 
 ## Contact
